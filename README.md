@@ -6,3 +6,47 @@ Le CMS pour Content Management System, ou Système de Gestion de Contenu en fran
 Drupal vs. WordPress : comparaison des deux CMS [Voir plus](https://www.ionos.fr/digitalguide/hebergement/cms/drupal-vs-wordpress-quel-cms-pour-quel-projet/).
 ### c'est quoi wordpress ?
 WordPress est un CMS (Content Management System), c’est à dire un outil permettant de publier et de gérer des contenus sur Internet. Il permet donc de créer et d’administrer votre site Internet. Il est gratuit et Open Source (licence GPL), ce qui signifie que WordPress peut être téléchargé, installé, modifié et redistribué par n’importe qui en conservant cette licence. A l’origine, WordPress était connu pour créer des blogs : c’est maintenant un CMS puissant et évolutif. Il permet ainsi de concevoir n’importe quel type de site Internet, le tout avec une interface relativement simple d’utilisation : site vitrine, boutique e-commerce, site d’information, réseau social, web-tv, extranet, etc.
+
+### Étape 1
+```
+Executer xampp ...
+```
+### Étape 2
+```
+Telecharger wordpress .....
+```
+### Étape 3
+```
+Creer la base de donnes ...
+```
+### Étape 4
+```
+Ajouter le fichier telecharger a htdocs ...
+```
+### Étape 5
+```
+Telecharger wordpress .....
+```
+### Étape 6
+```
+Telecharger le theme (NEVE)...
+
+https://wordpress.org/themes/neve/
+```
+### Étape 7
+```
+Importer le site démo "Freelancer" depuis le volet "Neve Option"
+https://themeisle.com/demo/?theme=Freelancer
+```
+### Étape 8
+```
+Installer plugins (Elementor pro)..
+```
+### Étape 9
+```
+Modifier le contenu du theme(Page, Text, Color, Image, Animations ...)
+```
+### Étape 10
+```
+creer un utilisateur avec le rôle éditeur
+```
