@@ -1,7 +1,7 @@
 ## définitions   
 ### C’est quoi un CMS ?
 Le CMS pour Content Management System, ou Système de Gestion de Contenu en français, est une interface d’administration qui fait partie intégrante d’un site web, et qui permet la mise à jour et la gestion de son site de façon simplifiée et sans connaissance informatique particulière. L’utilisateur doit comprendre comment fonctionne son interface pour pouvoir manipuler ses pages et son contenu dans les meilleures conditions. Il peut se former en autodidacte grâce aux nombreux tutoriels sur les blogs spécialisés et en vidéo sur YouTube, ou développer sa maîtrise par un apprentissage pédagogique en se formant auprès d’un professionnel.
-## étude de benchmarking des CMS .
+### étude de benchmarking des CMS .
 
 Drupal vs. WordPress : comparaison des deux CMS [Voir plus](https://www.ionos.fr/digitalguide/hebergement/cms/drupal-vs-wordpress-quel-cms-pour-quel-projet/).
 ### c'est quoi wordpress ?
